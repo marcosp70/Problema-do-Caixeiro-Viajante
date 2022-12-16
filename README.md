@@ -1,4 +1,4 @@
-# **Resolução do Problema do Caixeiro Viajante com Força Bruta**
+# **Resolução do Problema do Caixeiro Viajante utilizando Força Bruta**
 ## <ins> O problema </ins>
 O problema do caixeiro viajante consiste em descobrir a rota que torna mínima a viagem total, saindo de uma cidade específica e retornando para a mesma. Para isso, foi considerado que cada vértice do grafo se conecta com todos os outros, além de as arestas serem não direcionadas. O problema limita passar mais de uma vez pela mesma cidade. Além disso, nesse código foi limitado um número de criação máximo de 15 vértices, além do peso das arestas serem randômicos. 
 
